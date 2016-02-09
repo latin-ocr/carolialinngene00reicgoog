@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./carolialinngene00reicgoog_0009.png"; bbox 0 0 640 1146; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 83 378 483 435">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 83 378 483 435">
+     <span class='ocr_line' id='line_1_1' title="bbox 83 378 467 401; baseline -0.003 -5"><span class='ocrx_word' id='word_1_1' title='bbox 83 379 126 396; x_wconf 62' lang='lat' dir='ltr'>&#39;Hae</span> <span class='ocrx_word' id='word_1_2' title='bbox 134 384 169 396; x_wconf 71' lang='lat' dir='ltr'>nou</span> <span class='ocrx_word' id='word_1_3' title='bbox 180 379 213 396; x_wconf 68' lang='lat' dir='ltr'>soh</span> <span class='ocrx_word' id='word_1_4' title='bbox 223 379 263 396; x_wconf 76' lang='lat' dir='ltr'>mihi</span> <span class='ocrx_word' id='word_1_5' title='bbox 272 378 345 401; x_wconf 65' lang='lat' dir='ltr'>ptefieeie</span> <span class='ocrx_word' id='word_1_6' title='bbox 352 379 410 401; x_wconf 69' lang='lat' dir='ltr'>opinio</span> <span class='ocrx_word' id='word_1_7' title='bbox 421 379 467 397; x_wconf 62' lang='lat' dir='ltr'>lun:</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 85 412 483 435; baseline -0.003 -5"><span class='ocrx_word' id='word_1_8' title='bbox 85 412 168 434; x_wconf 59' lang='lat' dir='ltr'><strong>Vulgum</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 181 413 245 435; x_wconf 56' lang='grc' dir='ltr'>«μεθ’</span> <span class='ocrx_word' id='word_1_10' title='bbox 254 413 306 433; x_wconf 65' lang='lat' dir='ltr'>libuit,</span> <span class='ocrx_word' id='word_1_11' title='bbox 322 417 352 429; x_wconf 71' lang='lat' dir='ltr'><em>m</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 363 413 412 429; x_wconf 72' lang='lat' dir='ltr'>lemn</span> <span class='ocrx_word' id='word_1_13' title='bbox 421 413 483 434; x_wconf 76' lang='lat' dir='ltr'>prisn‘a,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 43 445 525 468">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 43 445 525 468">
+     <span class='ocr_line' id='line_1_3' title="bbox 43 445 525 468; baseline 0.004 -6"><span class='ocrx_word' id='word_1_14' title='bbox 43 459 46 463; x_wconf 89' lang='lat'>.</span> <span class='ocrx_word' id='word_1_15' title='bbox 82 445 287 467; x_wconf 55' lang='lat' dir='ltr'>&amp;alamann-flium,</span> <span class='ocrx_word' id='word_1_16' title='bbox 300 446 525 468; x_wconf 65' lang='lat' dir='ltr'>quihuofinlmssudie‘mur</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 82 478 550 526">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 82 478 550 526">
+     <span class='ocr_line' id='line_1_4' title="bbox 82 478 188 505; baseline 0.009 -6"><span class='ocrx_word' id='word_1_17' title='bbox 82 478 172 500; x_wconf 60' lang='lat' dir='ltr'>Restm-</span> <span class='ocrx_word' id='word_1_18' title='bbox 186 502 188 505; x_wconf 30' lang='lat'><strong>⁴</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 499 507 550 526; baseline -0.02 0"><span class='ocrx_word' id='word_1_19' title='bbox 499 507 526 526; x_wconf 78' lang='lat' dir='ltr'>Lx</span> <span class='ocrx_word' id='word_1_20' title='bbox 531 512 550 526; x_wconf 77' lang='grc' dir='ltr'>κ.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
